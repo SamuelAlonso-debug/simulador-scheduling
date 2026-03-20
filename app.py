@@ -136,7 +136,7 @@ if st.button("Ejecutar simulación"):
     st.dataframe(df, use_container_width=True)
 
     # -------------------------
-    # 🔥 PROMEDIOS
+    #  PROMEDIOS
     # -------------------------
     st.subheader("Promedios")
 
